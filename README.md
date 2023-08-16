@@ -1,8 +1,16 @@
-<picture>
-	<source media="prefers-color-scheme: light)" srcset="leilajune/under-construction-iseakaimeta.gif">
-</picture>
+<p align="center">🌱</p>
 
-![](leilajune/under-construction-isekaimeta)
+![under construction gif](under-construction.gif)
 
-<h1>Helloo</h1>
-![](https://github.com/leilajune/under-construction.gif)
+<sup>Source: https://tenor.com/view/excited-gif-25794812</sup>
+
+> My README profile is still in its incomplete form. Thank you for stopping by though. ପ(๑•ᴗ•๑)ଓ ♡
+
+<!--
+Languages and Technology
+
+HTML
+CSS
+JavaScript
+Python
+-->
