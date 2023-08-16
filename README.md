@@ -1,6 +1,3 @@
-<!--
-**leilajune/leilajune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <picture>
 	<source media="prefers-color-scheme: light)" srcset="leilajune/under-construction-iseakaimeta.gif">
 </picture>
