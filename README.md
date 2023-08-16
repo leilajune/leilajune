@@ -1,8 +1,12 @@
 <p align="center">🌱</p>
 
-![under construction gif](under-construction.gif)
+<p align="center">
+  <img src="under-construction.gif" alt="Under construction.gif" />
+</p>
 
-<sup>Source: https://tenor.com/view/excited-gif-25794812</sup>
+<p align="center"><sup>Source: https://tenor.com/view/excited-gif-25794812</sup></p>
+
+
 
 > My README profile is still in its incomplete form. Thank you for stopping by though. ପ(๑•ᴗ•๑)ଓ ♡
 
