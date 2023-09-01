@@ -11,6 +11,12 @@
 > My README profile is still in its incomplete form. Thank you for stopping by though. ପ(๑•ᴗ•๑)ଓ ♡
 
 <!--
+Banner intro:
+Hello World,
+I'm Leila
+Please press RETURN to continue
+© 2023 art by yours truly ≽ܫ≼
+
 Languages and Technology
 
 HTML
